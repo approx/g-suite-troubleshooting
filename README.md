@@ -18,7 +18,7 @@
 # Configurar assinatura de e-mail no Outlook 2013
 1. Na guia "Página inicial", clique no botão "Novo Email";
 2. Na guia "Inserir" da tela que se abriu, na seção "Incluir", clique em "Assinatura", e em "Assinaturas";
-3. Procure sua assinatura. Geralmente, ela fica na raiz do seu Drive pessoal;
+3. Procure sua imagem de assinatura. Geralmente, ela fica na raiz do seu Drive pessoal;
 4. Clique no botão "Novo", e informe o nome da pessoa relacionada à assinatura;
 5. Clique no botão "Inserir imagem". Na caixa que abrir, escolha a imagem;
 6. Na seação "Escolha a assinatura padrão", provavelmente a conta atual já estará selecionada;
