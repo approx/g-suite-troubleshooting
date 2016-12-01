@@ -4,8 +4,8 @@
 3. Escolha "POP ou IMAP";
 4. Em "Servidor de entrada de emails", informe `imap.gmail.com`;
 5. Em "Servidor de saída de emails (SMTP)", informe `smtp.gmail.com`;
-6. Em "Nome de usuário", informe o e-mail completo - incluindo o @proprodutores.com.br, @approx.com.br ou @storeu.com.br;
-7. Clique em "Mais configurações". Na guia geral, informe o nome da organização em "Organização";
+6. Em "Nome de usuário", informe o e-mail completo - incluindo o domínio desejado;
+7. Clique em "Mais configurações". Na guia geral, informe o nome da empresa em "Organização";
 8. Ainda na mesma guia, informe o e-mail no "Email de resposta";
 9. Clique na guia "Servidor de saída", marque a opção "Meu servidor de saída (SMTP) requer autenticação;
 10. Na guia "Avançado", na seção "Números das portas do servidor", informe `993` no "Servidor de entrada (IMAP)";
